@@ -1,0 +1,35 @@
+_repo: Stories-of-Boys-and-Girls-Who-Loved-the-SaviourA-Token-for-Children_30645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janeway, James
+    deathdate: 1674
+    gutenberg_agent_id: '34737'
+    url: http://www.gutenberg.org/2009/agents/34737
+  editor:
+    agent_name: Wesley, John
+    birthdate: 1703
+    deathdate: 1791
+    gutenberg_agent_id: '34731'
+    url: http://www.gutenberg.org/2009/agents/34731
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley
+description: ''
+gutenberg_issued: '2009-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcsh 'Children -- Religious life -- Juvenile literature'
+- !lcc 'BV'
+title: 'Stories of Boys and Girls Who Loved the Saviour
+
+  A Token for Children'
+url: http://www.gutenberg.org/ebooks/30645
