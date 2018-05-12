@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34731
     wikipedia: http://en.wikipedia.org/wiki/John_Wesley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30645#Stories-of-Boys-and-Girls-Who-Loved-the-SaviourA-Token-for-Children
 gutenberg_issued: '2009-12-10'
 gutenberg_type: Text
 identifiers:
